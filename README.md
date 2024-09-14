@@ -1,12 +1,11 @@
 # AI Assessment Submission
 
-This repository contains my solutions for the AI assessment. Below are the details for each part of the test, instructions on how to set up the environment, and steps to run the code.
+This repository contains my solutions for the AI assessment. Below are the details for each part of the test, instructions on how to set up the environment and so on.
 
 ## Table of Contents
 1. [File Structure](#file-structure)
 2. [Environment Setup](#environment-setup)
-3. [How to Run the Code](#how-to-run-the-code)
-4. [Using Visual Studio Code](#using-visual-studio-code)
+3. [Using Visual Studio Code](#using-visual-studio-code)
 
 ## File Structure
 
@@ -56,30 +55,6 @@ The repository is structured as follows:
 6. **Install Additional Dependencies (If Any)**:
    - Some dependencies might not be captured in `environment.yml`. Follow the instructions in each folder’s specific `README` (if any) for additional dependencies.
 
-## How to Run the Code
-
-### AI Theoretical Test
-
-- Open the `AI_Theoretical_Test.ipynb` file in Jupyter Notebook or VS Code.
-- Ensure that the correct Conda environment (`your_env_name`) is selected as the Python interpreter.
-- Run the cells to see the responses.
-
-### Programming Test
-
-- Navigate to the `Programming_Test` folder.
-- Follow the instructions in the folder’s specific README or run the main script using:
-
-    ```bash
-    python main_script.py
-    ```
-
-   Replace `main_script.py` with the actual filename of the script.
-
-### AI Solution Design and Technical Test
-
-- Navigate to the `ai_solution_design` and `ai_technical` folders.
-- Follow the instructions provided in their specific READMEs to run the scripts, REST API, and test cases.
-
 ## Using Visual Studio Code
 
 1. **Open the Project in VS Code**:
@@ -94,7 +69,7 @@ The repository is structured as follows:
 
 ## Contact Information
 
-If you have any questions or need further assistance, please feel free to contact me at [Your Email Address].
+If you have any questions or need further assistance, please feel free to contact me at imanuddinhadi2000@gmail.com.
 
 Thank you for reviewing my submission!
 
